@@ -1,0 +1,72 @@
+/* Grupo do input de pesquisa */
+.input-group {
+    display: flex;
+    width: 270px;
+    margin: auto;
+    background-color: #fff;
+    padding: 8px 16px 8px 8px;
+    border-radius: 25px;
+    gap: 8px;
+    border: 1px solid #000000;
+}
+
+/* Ícone do input de pesquisa */
+.input-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    min-height: 32px;
+    border-radius: 100%;
+    background-color: #2200ff;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Campo de input de pesquisa */
+.input-field {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
+
+/* Remove a borda quando o campo está em foco */
+.input-field:focus {
+    outline: none;
+}
+
+/* Lista de itens */
+.items {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+    list-style: none;
+    gap: 35px;
+}
+
+
+
+
+
+/* Título do item */
+.item-title {
+    display: none;
+}
+
+/* Subtítulo do item */
+.item-subtitle {
+    font-size: 12px;
+    color: #666;
+}
+
+/* Descrição do item */
+.item-description {
+    font-size: 14px;
+    display: none;
+}
+
+/* Mensagem "nenhum resultado encontrado" */
+#no_results {
+    display: none;
+    text-align: center;
+}

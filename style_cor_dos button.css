@@ -1,0 +1,123 @@
+/*Button*/
+.Baixar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Baixar1 {
+    background: linear-gradient(to right, #1100ff, #03005db8);
+}
+
+.Baixar2 {
+    background: linear-gradient(to right, #003700, #00c500);
+}
+
+.Baixar3 {
+    background: linear-gradient(to right, #ffd500, #3b4100);
+}
+
+.Baixar4 {
+    background: linear-gradient(to right, #c562ff, #ee00ff);
+}
+
+.Baixar5 {
+    background: linear-gradient(to right, #0c0000, #ff0000);
+}
+
+.Baixar6 {
+    background-color: #000000;
+}
+
+.Baixar7 {
+    background: linear-gradient(to right, #000000, #c4a000);
+}
+
+
+/*teste*/
+.Baixar8 {
+    background: linear-gradient(to left, #000000, #ffffff);
+}
+
+.Baixar9 {
+    background: linear-gradient(to left, #0030cf, #000000);
+}
+
+.Baixar10 {
+    background: linear-gradient(to left, #000000, #9203ff);
+}
+
+
+
+.jogo1 .voltage-button button {
+    background: linear-gradient(to right, #000000ce, #2400a6);
+}
+
+.jogo2 .voltage-button button {
+    background: linear-gradient(to right, #007d08, #3262ff);
+}
+
+.jogo3 .voltage-button button {
+    background: linear-gradient(to right, #294432, #924e00);
+}
+
+.jogo4 .voltage-button button {
+    background: linear-gradient(to right, #000000, #924400cb);
+}
+
+.jogo5 .voltage-button button {
+    background: linear-gradient(to right, #ffffffbd, #ff0000);
+}
+
+.jogo6 .voltage-button button {
+    background: linear-gradient(to right, #00ff1aaf, #000000);
+}
+
+.jogo7 .voltage-button button {
+    background: linear-gradient(to right, #c300ffc8, #000000);
+}
+
+.jogo8 .voltage-button button {
+    background: linear-gradient(to right, #0800ff, #ff0000);
+}
+
+.jogo9 .voltage-button button {
+    background: linear-gradient(to right, #0000fffa, #000000);
+}
+
+.jogo10 .voltage-button button {
+    background: linear-gradient(to right, #ff0000c8, #ff00006f);
+}
+
+.jogo11 .voltage-button button {
+    background: linear-gradient(to right, #ffffff, #00ff11);
+}
+
+.jogo12 .voltage-button button {
+    background: linear-gradient(to right, #ff6200, #ff00006f);
+}
+
+.jogo13 .voltage-button button {
+    background: linear-gradient(to right, #a72d00, #3933336f);
+}
+
+.jogo14 .voltage-button button {
+    background: linear-gradient(to right, #ff0000, #ff00ff);
+}
+
+.jogo15 .voltage-button button {
+    background: linear-gradient(to right, #00bfffd1, #000000);
+}
+
+.jogo16 .voltage-button button {
+    background: linear-gradient(to right, #1500ff, #ff9100d3);
+}
+
+.jogo17 .voltage-button button {
+    background: linear-gradient(to right, #e600ffc8, #ff910058);
+}
+
+.jogo18 .voltage-button button {
+    background: linear-gradient(to right, #000000, #148e01d3);
+}
